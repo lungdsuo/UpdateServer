@@ -1,8 +1,8 @@
 {
   "win32-x64-prod": {
 
-    "update": "",
-    "install": "",
+    "update": "https://github.com/lungdsuo/UpdateServer/releases",
+    "install": "https://github.com/lungdsuo/UpdateServer/releases/DMIS.Offline.Setup.0.0.2.exe",
     "version": "0.0.2"
   }
 }
